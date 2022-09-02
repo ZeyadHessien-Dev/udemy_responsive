@@ -110,5 +110,8 @@ class MobileScreen extends StatelessWidget {
 // 3. create branch
 // 4. code ......
 // 5. commit
-// 6.
+// 6. checkout master
+// 7. update master
+// 8. checkout your local branch [Local because until now I don't do push to it[login]]
+// 9.
 
